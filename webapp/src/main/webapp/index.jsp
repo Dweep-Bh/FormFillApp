@@ -91,7 +91,7 @@
 
 <form action="action_page.php">
     <div class="container">
-        <h1>Welcome to Pravallika's</h1>
+        <h1>Welcome to Praveen's</h1>
         <p>DevOps Student Registration Form</p>
         <hr>
 
